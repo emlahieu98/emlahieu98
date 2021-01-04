@@ -1,6 +1,6 @@
 ## Hi I'm Tran Hieu :fox_face:
 ### Information
-![Tran Hieu](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![Tran Hieu](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Tran Hieu")
 - 🔭  FullName : Tran Van Hieu 
 - 🌱  Date of birth : 04/05/1998
 - 📫  Gender : Male
