@@ -1,8 +1,12 @@
 ## Hi I'm Tran Hieu :fox_face:
-
+### Information
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
-
-:computer: _Software Engenieer at [TinhVan.io](https://github.com/tinhvan)_ :desert_island:Living in 113 Vinh Ho , Dong Da, Ha Noi :vietnam:
+- 🔭 :computer: FullName : Tran Van Hieu 
+- 🔭 :computer: Date of birth : 04/05/1998
+- 🔭 :computer: Gender : Male
+- 🔭 :computer: PhoneNumber : (+84)335055252
+- 🔭 :desert_island: Living in 113 Vinh Ho , Dong Da district, Ha Noi :vietnam:
+- 🔭 :computer: Software Engenieer at [TinhVan.io](https://github.com/tinhvan) (10/2020 - now) 
 
 
 ### My Tech Stack
@@ -15,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+- 🔭 I’m currently working on"
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=MongoDB)
