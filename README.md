@@ -1,5 +1,5 @@
 ## Hi I'm Tran Hieu :fox_face:
-### Information
+### *Information
 ![Tran Hieu](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Tran Hieu")
 - 🔭  FullName : Tran Van Hieu 
 - 🌱  Date of birth : 04/05/1998
@@ -9,10 +9,12 @@
 - :computer: Software Engenieer at [TinhVan.io](https://github.com/tinhvan) (10/2020 - now) 
 
 
-### My Tech Stack
+### *My Tech Stack
 
-![Javascript](http://img.shields.io/badge/-Javascript-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Nodejs](http://img.shields.io/badge/-Nodejs-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Javascript](http://img.shields.io/badge/-Javascript-007396?style=flat-square&logo=javascript&logoColor=ffffff)
+![Nodejs](http://img.shields.io/badge/-Nodejs-6DB33F?style=flat-square&logo=node&logoColor=ffffff)
+![Express](http://img.shields.io/badge/-Express-6DB33F?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=MongoDB)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
