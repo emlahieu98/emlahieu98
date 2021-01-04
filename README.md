@@ -1,10 +1,10 @@
-## Hi I'm Tran Hieu :fox_face:
+### :fox_face: Hi, I'm Tran Hieu :fox_face:
 ### *Information
 ![Tran Hieu](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Tran Hieu")
-- 🔭  FullName : Tran Van Hieu 
+- 🔭  Full Name : Tran Van Hieu 
 - 🌱  Date of birth : 04/05/1998
 - 📫  Gender : Male
-- :phone: PhoneNumber : (+84)335055252
+- :phone: Phone Number : (+84)335055252
 - :desert_island: Living in 113 Vinh Ho , Dong Da district, Ha Noi :vietnam:
 - :computer: Software Engenieer at [TinhVan.io](https://github.com/tinhvan) (10/2020 - now) 
 
