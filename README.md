@@ -1,9 +1,9 @@
 ### Hi there 👋
 ## I'm Tran Hieu :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Tran Hieu")
+![Tran Hieu](https://github.com/emlahieu98/Gaboso/blob/master/github_cover.png "Tran Hieu")
 
-:computer: _Software Engenieer at [Tinh Van.io](https://github.com/fitnezzio)_ :desert_island:Living in 131 Vinh Ho,Dong Da,Ha Noi :vietnam:
+:computer: _Software Engenieer at [Tinh Van.io]_ :desert_island:Living in 131 Vinh Ho,Dong Da,Ha Noi :vietnam:
 
 ### My Tech Stack
 
@@ -28,8 +28,10 @@
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
