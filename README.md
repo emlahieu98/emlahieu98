@@ -2,7 +2,8 @@
 
 ![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Software Engenieer at [TinhVan.io](https://github.com/tinhvan)_ :desert_island:Living in Ha Noi :vietnam:
+:computer: _Software Engenieer at [TinhVan.io](https://github.com/tinhvan)_ :desert_island:Living in 113 Vinh Ho , Dong Da, Ha Noi :vietnam:
+
 
 ### My Tech Stack
 
@@ -34,4 +35,4 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-⭐️ From [Tran Hieu](https://github.com/emlahieu98)
+⭐️ From [Tran Hieu with love](https://github.com/emlahieu98)
