@@ -26,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-336791?style=flat-square&logo=MongoDB)
 ![My SQL](http://img.shields.io/badge/-MySQL-DD0031?style=flat-square&logo=mysql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-336791?style=flat-square&logo=Redis)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
