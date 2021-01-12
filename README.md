@@ -36,6 +36,7 @@
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Postman](http://img.shields.io/badge/-Postman-007ACC?style=flat-square&logo=postman&logoColor=23ffffff)
 
 
 ![Ubuntu](http://img.shields.io/badge/-Unbutu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
